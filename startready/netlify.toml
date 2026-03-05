@@ -1,6 +1,6 @@
 [build]
-  publish = "public"
-  functions = "netlify/functions"
+  publish = "startready/startready2/public"
+  functions = "startready/startready2/functions"
 
 [[redirects]]
   from = "/*"
